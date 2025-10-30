@@ -13,5 +13,4 @@ function ThemeToggle({ darkMode, setDarkMode }) {
     </div>
   );
 }
-
 export default ThemeToggle;
